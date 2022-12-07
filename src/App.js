@@ -3,10 +3,10 @@ import MainGrid from "./components/MainGrid";
 
 function App() {
   return (
-    <>
+    <div>
       <Header />
       <MainGrid />
-    </>
+    </div>
   );
 }
 
